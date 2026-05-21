@@ -1,4 +1,4 @@
-# Medical Chatbot Vietnam (MedBot VN)
+# Vietnamese Medical Chatbot (MedBot VN)
 
 Một hệ thống hỏi-đáp y tế sử dụng **Retrieval-Augmented Generation (RAG)** để cung cấp câu trả lời chính xác dựa trên tài liệu y tế tiếng Việt.
 
