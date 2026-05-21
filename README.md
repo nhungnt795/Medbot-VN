@@ -14,7 +14,7 @@ Xây dựng và đánh giá hệ thống RAG cho các mô hình ngôn ngữ lớ
 ```
 medbotvn-nckh/
 ├── data/                      # Dữ liệu
-│   ├── raw/                   # Tài liệu y tế gốc (PDF, Excel)
+│   ├── raw/                   # Tài liệu y tế gốc (PDF)
 │   ├── processed/             # Dữ liệu đã xử lý (chunks, embeddings)
 │   ├── testset/               # Bộ câu hỏi kiểm thử
 │   └── vector_db/             # Vector database (ChromaDB)
