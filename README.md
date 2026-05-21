@@ -193,7 +193,7 @@ Dự án chạy các experiments sau:
 - **Predictions**: Câu trả lời sinh ra (JSONL) trong `outputs/predictions/`
 - **Evaluation**: Điểm số (JSONL, CSV) trong `outputs/evaluation/`
 
-## 🔑 File Quan Trọng
+## File Quan Trọng
 
 ### Core
 - [`src/retrieval/rag_engine.py`](src/retrieval/rag_engine.py) - Engine RAG chính
